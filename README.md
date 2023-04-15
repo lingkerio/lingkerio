@@ -1,18 +1,16 @@
-### Hi there 👋
+# About me
 
-<!--
-**lingkerio/lingkerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hello, I'm @lingkerio; 
+- I'm studying at Wuhan University to pursue baccalaureate;
+- I'm learning to use **C/C++**, **Go**, **Python**, **Rust**, and **OCaml**;
+- I'm Struggling to make some existing framework or tools in C/C++ and release my C++ learning strategy;
+- I'm very passionate about AI, meachine learning and other related content, but I'm still in the entry stage;
+- please contact with me by lingkerio@qq.com;
+- welcome friendly contact;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# myState
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lingkerio "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
