@@ -35,4 +35,6 @@ VS Code                  21 hrs 23 mins      ███████████�
 What I am using:  
 ![tools](https://skillicons.dev/icons?i=discord,git,github,neovim,md,stackoverflow,visualstudio,vscode,pycharm)  
 
-![Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,vcpkg,docker,go,java,linux,powershell,py,qt,regex,rust,php)  
+
+My Skills:  
+![Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,ocaml,docker,go,html,java,linux,powershell,py,qt,regex,rust,php)  
