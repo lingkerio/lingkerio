@@ -33,7 +33,7 @@ VS Code                  10 hrs 3 mins       ███████████�
 <!--END_SECTION:waka-->
 
 What I am using:  
-![tools](https://skillicons.dev/icons?i=discord,twitter,gitlab,git,github,neovim,vim,md,matlab,stackoverflow,visualstudio,vscode,pycharm)  
+![tools](https://skillicons.dev/icons?i=discord,twitter,gitlab,git,github,neovim,vim,md,matlab,stackoverflow,visualstudio,vscode)  
 
 
 My Skills:  
