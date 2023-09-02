@@ -3,8 +3,9 @@
 - Hello, I'm @lingkerio; 
 - I'm studying at Wuhan University to pursue baccalaureate;
 - I'm learning to use **C/C++**, **Go**, **Python**, **Rust**, and **OCaml**;
-- I'm Struggling to make some existing framework or tools in C/C++ and release my C++ learning strategy;
-- I'm very passionate about AI, meachine learning and other related content, but I'm still in the entry stage;
+- I'm currently engrossed in studying books pertaining to Programming Language Theory (PLT), such as "Types and Programming Languages" (TaPL) and "Compilers: Principles, Techniques, and Tools " (CPTaT);
+- I have a strong interest in various university open courses and am currently engaged in studying (or have completed) courses such as CS3110 at Cornell University, CS61A at Berkeley, CS106L at Stanford, Principles of Programming Languages at Peking University, and Operating Systems at Nanjing University;
+- In the near future, I am planning to delve into the realm of AI knowledge, exploring topics such as machine learning and deep learning;
 - please contact with me by lingkerio@qq.com;
 - welcome friendly contact;
 
@@ -34,8 +35,8 @@ Vim                      10 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 What I am using:  
-![tools](https://skillicons.dev/icons?i=discord,twitter,gitlab,git,github,neovim,vim,md,matlab,stackoverflow,visualstudio,vscode)  
+![tools](https://skillicons.dev/icons?i=discord,twitter,linkedin,gitlab,git,github,neovim,vim,md,matlab,stackoverflow,visualstudio,vscode,pycharm)  
 
 
 My Skills:  
-![Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,ocaml,docker,latex,go,html,v,codepen,java,linux,powershell,py,qt,regex,rust,php)  
+![Skills](https://skillicons.dev/icons?i=bash,c,cpp,cmake,ocaml,docker,latex,md,go,html,codepen,java,linux,powershell,py,qt,regex,rust,php)  
