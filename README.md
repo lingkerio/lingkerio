@@ -20,10 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-C++                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
