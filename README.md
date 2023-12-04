@@ -10,10 +10,12 @@
 - welcome friendly contact;
 
 
-# myState
+# myStats
 [![wakatime](https://wakatime.com/badge/user/91f23013-72dc-47fa-9246-c7f1d9e4561b.svg)](https://wakatime.com/@91f23013-72dc-47fa-9246-c7f1d9e4561b)
+![](https://img.shields.io/endpoint?url=https://mycoding.sorux.cn/api/compat/shields/v1/lingkerio/interval:30_days&label=last%2030d)
+![](https://mycoding.sorux.cn/api/badge/lingkerio/interval:today?label=today)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=lingkerio&api_domain=mycoding.sorux.cn&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=lingkerio&api_domain=mycoding.sorux.cn&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Total%20Stats&layout=compact)
 
 [![lingkerio's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lingkerio&count_private=true&show_icons=true&theme=radical "![lingkerio's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
