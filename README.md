@@ -18,6 +18,20 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lingkerio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   11 hrs 25 mins      ████████████░░░░░░░░░░░░░   48.66 % 
+Verilog                  9 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
+Typst                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
