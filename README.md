@@ -4,8 +4,8 @@
 - I'm studying at Wuhan University to pursue baccalaureate;
 - I'm learning to use **C/C++**, **Verilog HDL**, **Python**, **Typst**, and **OCaml**;
 - I'm currently engrossed in studying books pertaining to Programming Language Theory (PLT), such as "Types and Programming Languages" (TaPL) and "Compilers: Principles, Techniques, and Tools " (CPTaT);
-- I have a strong interest in various university open courses and am currently engaged in studying (or have completed) courses such as CS3110 at Cornell University, CS61A at Berkeley, CS106L at Stanford, Principles of Programming Languages at Peking University, and Operating Systems at Nanjing University;
-- In the near future, I am planning to delve into the realm of AI knowledge, exploring topics such as machine learning and deep learning;
+- I am currently very interested in computer architecture (mainly RISC-V and LoongArch), especially in the field of branch prediction;
+- I am also very interested in operating system kernels. Currently, I am closely studying the code of xv6;
 - please contact with me by lingkerio@qq.com;
 - welcome friendly contact;
 
