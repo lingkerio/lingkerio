@@ -2,7 +2,7 @@
 
 - Hello, I'm @lingkerio; 
 - I'm studying at Wuhan University to pursue baccalaureate;
-- I'm learning to use **C/C++**, **Verilog HDL**, **Python**, **Typst**, and **OCaml**;
+- I'm learning to use **C/C++**, **Verilog HDL**, **Python**, **Typst**, **OCaml**, **Rust**, **C#**, and **Javascript**;
 - I'm currently engrossed in studying books pertaining to Programming Language Theory (PLT), such as "Types and Programming Languages" (TaPL) and "Compilers: Principles, Techniques, and Tools " (CPTaT);
 - I am currently very interested in computer architecture (mainly RISC-V and LoongArch), especially in the field of branch prediction;
 - I am also very interested in operating system kernels. Currently, I am closely studying the code of xv6;
