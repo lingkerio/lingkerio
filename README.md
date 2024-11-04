@@ -16,6 +16,21 @@
 [![lingkerio's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lingkerio&count_private=true&show_icons=true&theme=gruvbox "![lingkerio's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Other                    2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Rust                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+C                        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Typst                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 39 mins       █████████████████░░░░░░░░   66.84 % 
+Visual Studio            3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+```
+
 
 <!--END_SECTION:waka-->
 
