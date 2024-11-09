@@ -47,4 +47,4 @@ What I am using:
 
 
 My Skills:  
-![Skills](https://skillicons.dev/icons?i=linux,windows,c,cpp,ocaml,rust,py,cs,js)  
+![Skills](https://skillicons.dev/icons?i=linux,windows,c,cpp,cs,ocaml,rust,py,js)  
