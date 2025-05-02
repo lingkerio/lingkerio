@@ -16,21 +16,6 @@
 [![lingkerio's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lingkerio&count_private=true&show_icons=true&theme=gruvbox "![lingkerio's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     7 hrs 40 mins       ███████████████░░░░░░░░░░   58.67 % 
-C++                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-C                        1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-🔥 Editors: 
-IntelliJ IDEA            8 hrs 3 mins        ███████████████░░░░░░░░░░   61.58 % 
-VS Code                  5 hrs 1 min         ██████████░░░░░░░░░░░░░░░   38.42 % 
-```
-
 
 <!--END_SECTION:waka-->
 
