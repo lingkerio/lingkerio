@@ -13,7 +13,7 @@
 # myStats
 [![wakatime](https://wakatime.com/badge/user/91f23013-72dc-47fa-9246-c7f1d9e4561b.svg)](https://wakatime.com/@91f23013-72dc-47fa-9246-c7f1d9e4561b)
 
-[![lingkerio's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lingkerio&count_private=true&show_icons=true&theme=gruvbox "![lingkerio's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![lingkerio's github stats](https://github-readme-stats-neon-sigma-67.vercel.app/api?username=lingkerio&count_private=true&show_icons=true&theme=gruvbox "![lingkerio's github stats")](https://github-readme-stats-neon-sigma-67.vercel.app)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
