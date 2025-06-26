@@ -2,10 +2,10 @@
 
 - Hello, I'm @lingkerio; 
 - I'm studying at Wuhan University to pursue baccalaureate;
-- I'm learning to use **C/C++**, **Verilog HDL**, **Python**, **Typst**, **OCaml**, **Rust**, **C#**, and **Javascript**;
-- I'm currently engrossed in studying books pertaining to Programming Language Theory (PLT), such as "Types and Programming Languages" (TaPL) and "Compilers: Principles, Techniques, and Tools " (CPTaT);
-- I am currently very interested in computer architecture (mainly RISC-V and LoongArch), especially in the field of branch prediction;
-- I am also very interested in operating system kernels. Currently, I am closely studying the code of xv6;
+- I'm currently diving into Programming Language Theory (PLT) and making time to read through TaPL (Types and Programming Languages);
+- My current research focuses on MLSys, particularly edge-device inference, though I'm also deeply interested in LLM serving;
+- I'm pursuing mastery of computer fundamentals - already co-developed a pipelined CPU that successfully booted PMON, and now collaborating on a Sysy language compiler;
+- Planning to explore OS kernels starting from xv6/rcore to Linux kernel, likely beginning after October this year.
 - please contact with me by lingkerio@qq.com;
 - welcome friendly contact;
 
