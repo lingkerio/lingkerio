@@ -43,8 +43,8 @@ VS Code                  6 hrs 42 mins       █████░░░░░░�
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@lingkerio/b4268c3a-49e5-469e-b094-8e53392cb864.png" /></a>
 
 What I am using:  
-![tools](https://skillicons.dev/icons?i=discord,twitter,linkedin,gitlab,git,github,neovim,vim,stackoverflow,visualstudio,vscode,pycharm,arch,debian,ubuntu)  
+![tools](https://skillicons.dev/icons?i=discord,twitter,stackoverflow,visualstudio,vscode,pycharm,idea,arch,debian,ubuntu)  
 
 
 My Skills:  
-![Skills](https://skillicons.dev/icons?i=linux,windows,c,cpp,cs,ocaml,rust,py,js)  
+![Skills](https://skillicons.dev/icons?i=linux,windows,c,cpp,java,cs,ocaml,rust,py,js)  
