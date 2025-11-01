@@ -16,20 +16,6 @@
 [![lingkerio's github stats](https://github-readme-stats-neon-sigma-67.vercel.app/api?username=lingkerio&show_icons=true&theme=swift)](https://github-readme-stats-neon-sigma-67.vercel.app)
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   5 hrs 41 mins       ███████████████████████░░   90.12 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
