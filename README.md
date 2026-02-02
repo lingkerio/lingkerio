@@ -11,9 +11,9 @@
 
 
 # myStats
-[![wakatime](https://wakatime.com/badge/user/91f23013-72dc-47fa-9246-c7f1d9e4561b.svg)](https://wakatime.com/@91f23013-72dc-47fa-9246-c7f1d9e4561b)
+[![Stats](./profile/stats.svg)](./profile/stats.svg)
 
-[![lingkerio's github stats](https://github-readme-stats-neon-sigma-67.vercel.app/api?username=lingkerio&show_icons=true&theme=swift)](https://github-readme-stats-neon-sigma-67.vercel.app)
+
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
