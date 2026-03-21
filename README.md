@@ -20,10 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
