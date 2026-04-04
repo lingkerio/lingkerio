@@ -20,11 +20,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   17 mins             ███████████████░░░░░░░░░░   60.40 % 
-Markdown                 11 mins             ██████████░░░░░░░░░░░░░░░   39.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
