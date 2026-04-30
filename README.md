@@ -20,10 +20,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████░░░░░░░░   69.83 % 
+TOML                     0 secs              ████████░░░░░░░░░░░░░░░░░   30.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 ```
 
 
