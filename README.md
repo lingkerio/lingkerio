@@ -20,10 +20,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 hrs 20 mins       █████████████████████░░░░   85.53 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+PowerShell               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Batchfile                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 3 mins        ████████████████░░░░░░░░░   65.02 % 
+Claude Code              2 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.98 % 
 ```
 
 
